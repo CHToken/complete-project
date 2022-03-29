@@ -8,7 +8,7 @@ export const bscTokens = {
       name: "XRXS",
       symbol: "XRXS",
       decimal: 18,
-      address: "0x4B3370B44A9E6A4EC28BfDb7C2C400758b59975d",
+      address: "0x039fd083ed7ec9e7a63c18084352690d7c68682c",
       projectUrl: "https://xrxstoken.com/",
     },
   },
